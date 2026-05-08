@@ -4,7 +4,8 @@ This project is a simple Java utility tool created for the Software Configuratio
 
 ## Project Description
 
-The tool is a Java command-line calculator used to demonstrate SCM and release management concepts.
+
+The tool is a Java calculator created to practice Git branching and merging.
 
 ## Current Features
 
