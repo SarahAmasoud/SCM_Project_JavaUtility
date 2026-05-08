@@ -4,7 +4,7 @@ This project is a simple Java utility tool created for the Software Configuratio
 
 ## Project Description
 
-The tool allows users to perform basic arithmetic operations using the command line.
+The tool allows users to perform arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Current Features
 
