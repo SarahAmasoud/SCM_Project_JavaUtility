@@ -4,7 +4,7 @@ This project is a simple Java utility tool created for the Software Configuratio
 
 ## Project Description
 
-The tool allows users to perform arithmetic operations such as addition, subtraction, multiplication, and division.
+The tool is a Java command-line calculator used to demonstrate SCM and release management concepts.
 
 ## Current Features
 
