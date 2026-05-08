@@ -17,6 +17,7 @@ public class CalculatorTool {
         System.out.println("Choose operation:");
         System.out.println("1. Add");
         System.out.println("2. Subtract");
+        System.out.println("3. Multiply");
 
         int choice = scanner.nextInt();
 
@@ -32,6 +33,10 @@ public class CalculatorTool {
             result = num1 - num2;
             System.out.println("Result: " + result);
 
+        } else if (choice == 3) {
+
+            result = num1 * num2;
+            System.out.println("Result: " + result);
         } else {
 
             System.out.println("Invalid choice.");
