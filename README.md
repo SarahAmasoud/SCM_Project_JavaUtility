@@ -4,9 +4,12 @@ This project is a simple Java utility tool created for the Software Configuratio
 
 ## Project Description
 
+The tool is a command-line Java calculator created to practice Git branching, merging, conflict resolution, and release management.
 
-The tool is a Java calculator created to practice Git branching and merging.
 
+
+
+The tool is a command-line Java utility for learning software configuration management.
 ## Current Features
 
 - Addition
