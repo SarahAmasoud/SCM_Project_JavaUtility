@@ -18,7 +18,7 @@ public class CalculatorTool {
         System.out.println("1. Add");
         System.out.println("2. Subtract");
         System.out.println("3. Multiply");
-
+        System.out.println("4. Divide");
         int choice = scanner.nextInt();
 
         double result;
@@ -37,6 +37,17 @@ public class CalculatorTool {
 
             result = num1 * num2;
             System.out.println("Result: " + result);
+        } else if (choice == 4) {
+
+            if (num2 != 0) {
+
+                result = num1 / num2;
+                System.out.println("Result: " + result);
+
+            } else {
+
+                System.out.println("Cannot divide by zero.");
+            }
         } else {
 
             System.out.println("Invalid choice.");
